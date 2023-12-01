@@ -11,7 +11,7 @@
 body {
   display: grid;
   place-items: center;
-  background-color: rgb(84, 11, 73);
+  background-color: rgb(30, 11, 84);
   color: white;
   font-family: 'Work Sans', sans-serif;
 }
@@ -68,7 +68,6 @@ input[type=submit]:hover {
   gap: 0.15rem;
   padding: 0.75rem;
   margin-block: 0.5rem;
-  border: solid 3px #fff000;
   border-radius: 5px;
   background-color: rgba(181, 234, 241, 0.088);
   transition: background-color 300ms, border-color 300ms;
